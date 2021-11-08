@@ -21,12 +21,15 @@
   <img src="https://img.shields.io/badge/Java-0095D5?style=flat-square&logo=Java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Mysql-FA7343?style=flat-square&logo=Mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Jsp-007396?style=flat-square&logo=Jsp&logoColor=white"/>
 </p>
 
 #### Tools
 <p>
   <img src="https://img.shields.io/badge/Aws-B7178C?style=flat-square&logo=Aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intellij-F05032?style=flat-square&logo=Intellij&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-F05032?style=flat-square&logo=Eclipse&logoColor=white"/>
 </p>
 
 
