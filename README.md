@@ -28,7 +28,7 @@
 <p>
   <img src="https://img.shields.io/badge/Aws-B7178C?style=flat-square&logo=Aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Intellij-F05032?style=flat-square&logo=Intellij&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-F05032?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-F05032?style=flat-square&logo=Eclipse&logoColor=white"/>
 </p>
 
