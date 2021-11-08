@@ -5,7 +5,7 @@
 <p>
   👋&nbsp; Hi there! I'm <b>Backend developer</b> using Spring. 🚀<br/>
   I am also into AI tech and did some project about DeepLearning. 💖<br/><br/>
-  I enjoy hiking, tennis. ⛰ 🏄<br/>
+  I enjoy hiking, tennis. ⛰<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
