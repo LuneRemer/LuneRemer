@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 <!-- - ⚡ Fun fact: ... -->
 
 #### Projects
-- 
-- 
+- <a href ="https://github.com/TH-Project/3s1cBackend"> 3s1cBackend </a>
+- <a href ="https://github.com/TH-Project/SeoulTour"> SeoulTour </a>
+- <a href ="https://github.com/SuHoTan/OCR-Food-Additives-Analyzer"> OCR-Food-Additives-Analyzer </a>
 
