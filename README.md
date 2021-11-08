@@ -12,8 +12,10 @@
 ### 💪 Skills
 #### Platforms & Languages
 <p>
-  <img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-61DAFB?style=flat-square&logo=Keras&logoColor=black"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Docker-02569B?style=flat-square&logo=Docker&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Linux-E8E8E8?style=flat-square&logo=Linux&logoColor=black"/>
 </p>
