@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>Backend developer</b> using Spring. 🚀<br/>
+  👋&nbsp; Hi there! I'm <b>software developer</b> using Python and Spring. 🚀<br/>
   I am also into AI tech and did some project about DeepLearning. 💖<br/><br/>
   I enjoy hiking, tennis. ⛰<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
