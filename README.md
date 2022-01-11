@@ -40,8 +40,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Image Segmentation, Image Sentiment Analysis.
-- 🔭 I’m currently working on SpringBoot.
-- 🌱 I’m currently learning AI tech.
+- 🔭 I’m currently working on SpringBoot project.
+- 🌱 I’m currently working on Big Data Analysis.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
